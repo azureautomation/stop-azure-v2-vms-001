@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3629,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-v2-vms#001/master/Stop-AzureV2VMs.ps1",
+    "DownloadCount": 5482,
+    "Id": "Stop-Azure-V2-VMs-5acd0921",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 25,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2016-1-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell runbook connects to Azure and stops all VMs in an Azure subscription or cloud service. You can attach a schedule to this runbook to run it at a specific time.",
+    "Title": "Stop Azure V2 VMs",
+    "UpdatedDate": "2016-5-18T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-azure-v2-vms#001",
+    "UserTags": "Virtual Machine, Windows Azure Virtual Machines, Azure Automation"
+}
